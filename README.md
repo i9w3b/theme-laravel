@@ -1,6 +1,4 @@
-# ThemeLaravel
-
-<p align="center" class="text-center" style="text-align:center;"><a href="https://i9w3b.github.io" target="_blank"><img src="https://i9w3b.github.io/i9w3b.png" width="200"></a></p>
+<p align="center" class="text-center" style="text-align:center;"><a href="https://github.com/i9w3b" target="_blank"><img src="https://cdn.jsdelivr.net/gh/i9w3b/cdn/img/logo-200px.png" width="200"></a></p>
 <p align="center" class="text-center" style="text-align:center;">
 <a href="https://github.com/i9w3b/theme-laravel/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/i9w3b/theme-laravel" alt="License"></a>
 <a href="https://github.com/i9w3b/theme-laravel"><img src="https://img.shields.io/github/languages/count/i9w3b/theme-laravel" alt="GitHub Language Count"></a>
@@ -79,4 +77,4 @@ Se encontrar erros ou tiver sugestões de melhorias, acesse: [issues](https://gi
 
 ## Licença
 
-[MIT](https://github.com/i9w3b/theme-laravel/blob/master/LICENSE.md) © [i9W3b](https://github.com/i9w3b)
+[MIT](https://github.com/i9w3b/theme-laravel/blob/master/LICENSE.md) © [i9W3b](https://github.com/i9w3b) | Consulte [LICENSE.md](https://github.com/i9w3b/theme-laravel/blob/master/LICENSE.md) para obter mais informações.
