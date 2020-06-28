@@ -1,6 +1,5 @@
-
 @extends('layouts.app')
-
+@section('title',__('Dashboard - Template Laravel'))
 @section('css')
 <style>
     /* css */

@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title',__('Template Laravel'))
+@section('title',__('Home - Template Laravel'))
 
 @section('css')
 <style>
